@@ -1,0 +1,6 @@
+italian_greyhound.n.01	whippet.n.01	0
+greyhound.n.01	whippet.n.01	1
+whippet.n.01	italian_greyhound.n.01	0
+greyhound.n.01	italian_greyhound.n.01	1
+whippet.n.01	greyhound.n.01	0
+italian_greyhound.n.01	greyhound.n.01	0
